@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .App-logo {
@@ -35,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.campuses {
+  text-align: left;
+}
+
+.campus-card {
+  border:1px tomato;
+  padding: 10px;
 }
